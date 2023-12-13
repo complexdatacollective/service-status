@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/complexdatacollective/service-status/master/assets/NC-Mark.svg
   name: Network Canvas Project
   introTitle: "Welcome to the service status page for the Network Canvas project."
-  introMessage: Please find automated service status data for all our project services below, along with up to date incident information. If a service is down or not working correctly, and there is no incidicent below, please [contact us](mailto:info@networkcanvas.com).
+  introMessage: You can find automated service status data for all our project services below, along with up to date incident information. If a service is down or not working correctly, please [contact us](mailto:info@networkcanvas.com).
   navbar:
     - title: Status
       href: /
