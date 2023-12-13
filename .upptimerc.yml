@@ -9,8 +9,6 @@ sites:
     url: https://documentation.networkcanvas.com
   - name: Partner services
     url: https://partnerservices.networkcanvas.com
-  - name: Assets
-    url: https://assets.networkcanvas.com
 
 status-website:
   # cname: demo.upptime.js.org
