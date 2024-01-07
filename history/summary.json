@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 448,
-    "timeDay": 472,
-    "timeWeek": 423,
-    "timeMonth": 448,
-    "timeYear": 448,
-    "dailyMinutesDown": {
-      "2024-01-06": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 451,
+    "timeDay": 459,
+    "timeWeek": 412,
+    "timeMonth": 451,
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation site",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 207,
-    "timeDay": 210,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 210,
+    "timeDay": 218,
     "timeWeek": 194,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2024-01-06": 7
-    }
+    "timeMonth": 210,
+    "timeYear": 210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Partner services",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 414,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 420,
     "timeDay": 425,
-    "timeWeek": 382,
-    "timeMonth": 414,
-    "timeYear": 414,
-    "dailyMinutesDown": {
-      "2024-01-06": 6
-    }
+    "timeWeek": 386,
+    "timeMonth": 420,
+    "timeYear": 420,
+    "dailyMinutesDown": {}
   }
 ]
