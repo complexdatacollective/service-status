@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "User community",
+    "url": "https://community.networkcanvas.com",
+    "icon": "https://icons.duckduckgo.com/ip3/community.networkcanvas.com.ico",
+    "slug": "user-community",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Partner services",
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
