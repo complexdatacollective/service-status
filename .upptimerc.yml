@@ -7,6 +7,8 @@ sites:
     url: https://networkcanvas.com
   - name: Documentation site
     url: https://documentation.networkcanvas.com
+  - name: User community
+    url: https://community.networkcanvas.com
   - name: Partner services
     url: https://partnerservices.networkcanvas.com
 
