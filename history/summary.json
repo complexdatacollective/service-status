@@ -4,10 +4,10 @@
     "url": "https://networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
@@ -15,7 +15,9 @@
     "timeWeek": 491,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 2
+    }
   },
   {
     "name": "Documentation site",
@@ -58,7 +60,7 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 458,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 0
+    }
   }
 ]
