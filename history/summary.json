@@ -4,19 +4,19 @@
     "url": "https://networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 381,
-    "timeWeek": 491,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 457,
+    "timeDay": 434,
+    "timeWeek": 490,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-01-12": 2
+      "2024-01-12": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 390,
-    "timeWeek": 458,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 428,
+    "timeDay": 468,
+    "timeWeek": 466,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-01-12": 0
+      "2024-01-12": 5
     }
   }
 ]
