@@ -14,6 +14,7 @@ sites:
 
 status-website:
   # cname: demo.upptime.js.org
+  cname: status.networkcanvas.com # Custom CNAME
   baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/complexdatacollective/service-status/master/assets/NC-Mark.svg
   name: Network Canvas Project
