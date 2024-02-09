@@ -4,18 +4,20 @@
     "url": "https://networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 425,
-    "timeWeek": 488,
-    "timeMonth": 414,
-    "timeYear": 435,
-    "dailyMinutesDown": {}
+    "time": 571,
+    "timeDay": 5281,
+    "timeWeek": 1694,
+    "timeMonth": 684,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2024-02-09": 0
+    }
   },
   {
     "name": "Documentation site",
