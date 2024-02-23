@@ -4,9 +4,9 @@
     "url": "https://networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 340,
     "timeMonth": 682,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "Documentation site",
@@ -42,19 +44,19 @@
     "url": "https://community.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.networkcanvas.com.ico",
     "slug": "user-community",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
-    "time": 261,
-    "timeDay": 147,
-    "timeWeek": 212,
-    "timeMonth": 264,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.95%",
+    "time": 259,
+    "timeDay": 153,
+    "timeWeek": 205,
+    "timeMonth": 261,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-02-23": 8,
+      "2024-02-23": 16,
       "2024-01-14": 15
     }
   },
@@ -63,19 +65,19 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 217,
-    "timeWeek": 316,
-    "timeMonth": 383,
-    "timeYear": 399,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 482,
+    "timeDay": 2601,
+    "timeWeek": 1100,
+    "timeMonth": 582,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 8
     }
   }
 ]
