@@ -11,6 +11,8 @@ sites:
     url: https://community.networkcanvas.com
   - name: Partner services
     url: https://partnerservices.networkcanvas.com
+  - name: Complex Data Collective website
+    url: https://complexdatacollective.org
 
 status-website:
   # cname: demo.upptime.js.org
