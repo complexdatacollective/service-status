@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 490,
-    "timeDay": 396,
-    "timeWeek": 424,
-    "timeMonth": 386,
+    "timeDay": 461,
+    "timeWeek": 437,
+    "timeMonth": 391,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2024-02-23": 15
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 148,
-    "timeWeek": 157,
-    "timeMonth": 150,
+    "timeDay": 126,
+    "timeWeek": 151,
+    "timeMonth": 149,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-01-26": 18
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 255,
-    "timeDay": 232,
-    "timeWeek": 245,
-    "timeMonth": 244,
-    "timeYear": 255,
+    "time": 256,
+    "timeDay": 287,
+    "timeWeek": 258,
+    "timeMonth": 247,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2024-02-23": 36,
       "2024-01-14": 15
@@ -71,11 +71,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 430,
-    "timeWeek": 374,
-    "timeMonth": 337,
-    "timeYear": 429,
+    "time": 430,
+    "timeDay": 491,
+    "timeWeek": 396,
+    "timeMonth": 343,
+    "timeYear": 430,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Complex Data Collective website",
+    "url": "https://complexdatacollective.org",
+    "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
+    "slug": "complex-data-collective-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   }
 ]
