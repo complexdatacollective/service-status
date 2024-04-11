@@ -1,6 +1,6 @@
 # [📈 Live Status](https://complexdatacollective.github.io/service-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Complex Data Collective](http://coda.co), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Complex Data Collective](https://complexdatacollective.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/complexdatacollective/service-status/workflows/Uptime%20CI/badge.svg)](https://github.com/complexdatacollective/service-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/complexdatacollective/service-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/complexdatacollective/service-status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -29,5 +29,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Complex Data Collective](http://coda.co)
+- Code: [MIT](./LICENSE) © [Complex Data Collective](https://complexdatacollective.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
