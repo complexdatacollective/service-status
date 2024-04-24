@@ -11,6 +11,8 @@ sites:
     url: https://community.networkcanvas.com
   - name: Partner services
     url: https://partnerservices.networkcanvas.com
+  - name: Fresco Sandbox
+    url: https://fresco-sandbox.networkcanvas.com
   - name: Complex Data Collective website
     url: https://complexdatacollective.org
 
