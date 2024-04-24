@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 485,
-    "timeDay": 595,
-    "timeWeek": 473,
-    "timeMonth": 413,
-    "timeYear": 485,
+    "time": 484,
+    "timeDay": 462,
+    "timeWeek": 455,
+    "timeMonth": 410,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2024-02-23": 15
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 115,
-    "timeWeek": 152,
-    "timeMonth": 158,
+    "timeDay": 131,
+    "timeWeek": 151,
+    "timeMonth": 157,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-01-26": 18
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 258,
-    "timeDay": 366,
-    "timeWeek": 297,
-    "timeMonth": 262,
+    "timeDay": 307,
+    "timeWeek": 291,
+    "timeMonth": 261,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2024-02-23": 36,
@@ -72,10 +72,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 593,
-    "timeWeek": 435,
-    "timeMonth": 366,
+    "timeDay": 511,
+    "timeWeek": 434,
+    "timeMonth": 368,
     "timeYear": 427,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Fresco Sandbox",
+    "url": "https://fresco-sandbox.networkcanvas.com",
+    "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
+    "slug": "fresco-sandbox",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5217,
+    "timeDay": 5217,
+    "timeWeek": 5217,
+    "timeMonth": 5217,
+    "timeYear": 5217,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 151,
-    "timeWeek": 195,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "time": 185,
+    "timeDay": 156,
+    "timeWeek": 190,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   }
 ]
