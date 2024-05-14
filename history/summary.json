@@ -84,18 +84,20 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3054,
-    "timeDay": 833,
-    "timeWeek": 1996,
-    "timeMonth": 3054,
-    "timeYear": 3054,
-    "dailyMinutesDown": {}
+    "time": 3479,
+    "timeDay": 6611,
+    "timeWeek": 3295,
+    "timeMonth": 3479,
+    "timeYear": 3479,
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   },
   {
     "name": "Complex Data Collective website",
