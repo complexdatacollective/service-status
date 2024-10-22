@@ -24,19 +24,19 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 203,
-    "timeWeek": 133,
-    "timeMonth": 145,
+    "timeDay": 153,
+    "timeWeek": 130,
+    "timeMonth": 143,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-10-22": 1,
+      "2024-10-22": 12,
       "2024-01-26": 18
     }
   },
@@ -87,19 +87,19 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 116,
-    "timeWeek": 127,
-    "timeMonth": 132,
-    "timeYear": 1180,
+    "time": 1175,
+    "timeDay": 180,
+    "timeWeek": 142,
+    "timeMonth": 136,
+    "timeYear": 1175,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 12
     }
   },
   {
@@ -107,19 +107,19 @@
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 144,
+    "timeDay": 184,
     "timeWeek": 223,
     "timeMonth": 202,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 11
     }
   }
 ]
