@@ -24,10 +24,10 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
@@ -36,6 +36,7 @@
     "timeMonth": 145,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-01-26": 18
     }
   },
@@ -86,10 +87,10 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1180,
@@ -97,16 +98,18 @@
     "timeWeek": 127,
     "timeMonth": 132,
     "timeYear": 1180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Complex Data Collective website",
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,6 +118,8 @@
     "timeWeek": 223,
     "timeMonth": 202,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
