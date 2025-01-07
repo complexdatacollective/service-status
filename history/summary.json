@@ -70,19 +70,19 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 3559,
-    "timeWeek": 1654,
-    "timeMonth": 794,
+    "timeDay": 2911,
+    "timeWeek": 1533,
+    "timeMonth": 780,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-01-07": 59
+      "2025-01-07": 70
     }
   },
   {
