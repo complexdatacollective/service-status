@@ -70,18 +70,16 @@
     "slug": "partner-services",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 2537,
     "timeWeek": 922,
     "timeMonth": 549,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2025-01-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fresco Sandbox",
