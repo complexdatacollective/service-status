@@ -4,11 +4,11 @@
     "url": "https://networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/networkcanvas.com.ico",
     "slug": "project-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 474,
     "timeDay": 229,
@@ -16,6 +16,7 @@
     "timeMonth": 793,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2025-01-28": 1,
       "2025-01-23": 26,
       "2025-01-07": 53,
       "2024-02-23": 15
@@ -44,9 +45,9 @@
     "url": "https://community.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.networkcanvas.com.ico",
     "slug": "user-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
@@ -56,6 +57,7 @@
     "timeMonth": 519,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2025-01-28": 1,
       "2025-01-23": 26,
       "2025-01-07": 53,
       "2024-06-06": 650,
@@ -69,9 +71,9 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
@@ -81,6 +83,7 @@
     "timeMonth": 699,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2025-01-28": 0,
       "2025-01-23": 25,
       "2025-01-07": 59
     }
