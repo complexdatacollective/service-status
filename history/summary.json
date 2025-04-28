@@ -30,19 +30,19 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 208,
-    "timeWeek": 340,
-    "timeMonth": 383,
+    "timeDay": 278,
+    "timeWeek": 348,
+    "timeMonth": 384,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 8
     }
   },
   {
