@@ -32,18 +32,16 @@
     "slug": "documentation-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 278,
     "timeWeek": 348,
     "timeMonth": 384,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "User community",
