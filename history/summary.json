@@ -38,7 +38,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 0,
-    "timeWeek": 309,
+    "timeWeek": 329,
     "timeMonth": 363,
     "timeYear": 214,
     "dailyMinutesDown": {}
@@ -121,17 +121,15 @@
     "slug": "complex-data-collective-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 237,
     "timeWeek": 256,
     "timeMonth": 228,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2025-05-05": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
