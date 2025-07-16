@@ -30,19 +30,19 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 145,
-    "timeWeek": 220,
-    "timeMonth": 223,
+    "timeDay": 188,
+    "timeWeek": 226,
+    "timeMonth": 225,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 13
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 242,
-    "timeWeek": 218,
-    "timeMonth": 237,
+    "timeDay": 205,
+    "timeWeek": 212,
+    "timeMonth": 235,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 13
     }
   }
 ]
