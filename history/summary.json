@@ -32,17 +32,17 @@
     "slug": "documentation-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
+    "time": 214,
     "timeDay": 175,
     "timeWeek": 197,
     "timeMonth": 217,
-    "timeYear": 234,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-07-27": 12
+      "2025-07-27": 0
     }
   },
   {
@@ -103,29 +103,27 @@
     "slug": "fresco-sandbox",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
     "timeDay": 119,
     "timeWeek": 227,
     "timeMonth": 557,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2025-07-27": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Complex Data Collective website",
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 161,
@@ -133,7 +131,7 @@
     "timeMonth": 232,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-07-27": 12
+      "2025-07-27": 0
     }
   }
 ]
