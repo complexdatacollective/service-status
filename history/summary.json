@@ -32,17 +32,17 @@
     "slug": "documentation-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 175,
-    "timeWeek": 197,
-    "timeMonth": 217,
-    "timeYear": 235,
+    "time": 213,
+    "timeDay": 161,
+    "timeWeek": 188,
+    "timeMonth": 212,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 11
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 161,
-    "timeWeek": 211,
+    "timeDay": 189,
+    "timeWeek": 214,
     "timeMonth": 232,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 11
     }
   }
 ]
