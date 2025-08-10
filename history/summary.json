@@ -30,19 +30,19 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 179,
-    "timeWeek": 299,
-    "timeMonth": 253,
+    "timeDay": 188,
+    "timeWeek": 289,
+    "timeMonth": 252,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-08-10": 0
+      "2025-08-10": 12
     }
   },
   {
@@ -101,19 +101,19 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 172,
-    "timeWeek": 296,
-    "timeMonth": 374,
-    "timeYear": 346,
+    "time": 630,
+    "timeDay": 168,
+    "timeWeek": 281,
+    "timeMonth": 368,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-08-10": 0
+      "2025-08-10": 12
     }
   },
   {
@@ -121,19 +121,19 @@
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 235,
-    "timeWeek": 230,
+    "timeDay": 224,
+    "timeWeek": 228,
     "timeMonth": 226,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-08-10": 0
+      "2025-08-10": 12
     }
   }
 ]
