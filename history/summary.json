@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 507,
-    "timeDay": 327,
-    "timeWeek": 298,
-    "timeMonth": 304,
-    "timeYear": 533,
+    "timeDay": 178,
+    "timeWeek": 284,
+    "timeMonth": 302,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2025-04-03": 22,
       "2025-02-06": 20,
@@ -30,18 +30,20 @@
     "url": "https://documentation.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/documentation.networkcanvas.com.ico",
     "slug": "documentation-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 282,
-    "timeWeek": 321,
-    "timeMonth": 255,
-    "timeYear": 241,
-    "dailyMinutesDown": {}
+    "timeDay": 179,
+    "timeWeek": 299,
+    "timeMonth": 253,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2025-08-10": 0
+    }
   },
   {
     "name": "User community",
@@ -55,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 401,
-    "timeDay": 332,
-    "timeWeek": 310,
-    "timeMonth": 322,
+    "timeDay": 182,
+    "timeWeek": 305,
+    "timeMonth": 319,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-04-03": 22,
@@ -80,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 448,
-    "timeDay": 293,
-    "timeWeek": 308,
-    "timeMonth": 330,
+    "time": 447,
+    "timeDay": 206,
+    "timeWeek": 304,
+    "timeMonth": 331,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-02-06": 18,
@@ -99,35 +101,39 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 212,
-    "timeWeek": 314,
-    "timeMonth": 390,
-    "timeYear": 351,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 172,
+    "timeWeek": 296,
+    "timeMonth": 374,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2025-08-10": 0
+    }
   },
   {
     "name": "Complex Data Collective website",
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 215,
-    "timeWeek": 229,
+    "timeDay": 235,
+    "timeWeek": 230,
     "timeMonth": 226,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-10": 0
+    }
   }
 ]
