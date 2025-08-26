@@ -119,17 +119,18 @@
     "slug": "complex-data-collective-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 217,
     "timeDay": 171,
     "timeWeek": 209,
     "timeMonth": 234,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-26": 30,
+      "2025-08-25": 4
     }
   }
 ]
