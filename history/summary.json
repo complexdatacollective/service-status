@@ -117,19 +117,19 @@
     "url": "https://complexdatacollective.org",
     "icon": "https://icons.duckduckgo.com/ip3/complexdatacollective.org.ico",
     "slug": "complex-data-collective-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 217,
+    "time": 218,
     "timeDay": 219,
     "timeWeek": 220,
     "timeMonth": 236,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-08-26": 41,
+      "2025-08-26": 34,
       "2025-08-25": 4
     }
   }
