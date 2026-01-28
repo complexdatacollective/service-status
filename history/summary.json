@@ -63,7 +63,7 @@
     "timeDay": 228,
     "timeWeek": 280,
     "timeMonth": 296,
-    "timeYear": 546,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-11-18": 103,
       "2025-10-02": 604,
@@ -103,18 +103,19 @@
     "url": "https://fresco-sandbox.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresco-sandbox.networkcanvas.com.ico",
     "slug": "fresco-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 426,
+    "time": 423,
     "timeDay": 670,
     "timeWeek": 736,
     "timeMonth": 714,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2025-11-18": 136
     }
   },
