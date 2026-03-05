@@ -38,7 +38,7 @@
     "time": 304,
     "timeDay": 255,
     "timeWeek": 246,
-    "timeMonth": 277,
+    "timeMonth": 275,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-11-18": 103,
@@ -60,7 +60,7 @@
     "time": 518,
     "timeDay": 992,
     "timeWeek": 475,
-    "timeMonth": 312,
+    "timeMonth": 313,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2026-03-05": 350,
@@ -85,8 +85,8 @@
     "time": 461,
     "timeDay": 316,
     "timeWeek": 258,
-    "timeMonth": 286,
-    "timeYear": 357,
+    "timeMonth": 285,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-18": 111,
       "2025-10-20": 68
@@ -104,10 +104,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 457,
-    "timeDay": 246,
+    "timeDay": 0,
     "timeWeek": 2244,
-    "timeMonth": 1653,
-    "timeYear": 570,
+    "timeMonth": 1686,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2026-02-17": 20,
       "2025-11-18": 136
@@ -125,10 +125,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 238,
-    "timeDay": 849,
+    "timeDay": 0,
     "timeWeek": 932,
-    "timeMonth": 404,
-    "timeYear": 250,
+    "timeMonth": 410,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2026-02-18": 23,
       "2025-10-20": 16,
@@ -144,18 +144,19 @@
     "url": "https://architect.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/architect.networkcanvas.com.ico",
     "slug": "architect-web",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 636,
-    "timeDay": 310,
+    "timeDay": 0,
     "timeWeek": 302,
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2026-03-05": 0,
       "2026-03-03": 56,
       "2026-02-24": 23
     }
