@@ -151,17 +151,17 @@
     "url": "https://architect.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/architect.networkcanvas.com.ico",
     "slug": "architect-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
-    "time": 786,
-    "timeDay": 163,
-    "timeWeek": 281,
-    "timeMonth": 244,
-    "timeYear": 786,
+    "time": 784,
+    "timeDay": 229,
+    "timeWeek": 290,
+    "timeMonth": 247,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2026-02-24": 23,
       "2026-03-03": 56,
@@ -173,7 +173,7 @@
       "2026-05-04": 41,
       "2026-05-10": 96,
       "2026-05-19": 63,
-      "2026-09-23": 0
+      "2026-09-23": 8
     }
   }
 ]
