@@ -57,15 +57,15 @@
     "url": "https://community.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.networkcanvas.com.ico",
     "slug": "user-community",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.79%",
     "time": 400,
-    "timeDay": 234,
-    "timeWeek": 288,
+    "timeDay": 248,
+    "timeWeek": 287,
     "timeMonth": 280,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
       "2026-02-02": 21,
       "2026-03-05": 350,
       "2026-05-02": 33,
-      "2026-09-30": 0
+      "2026-09-30": 12
     }
   },
   {
