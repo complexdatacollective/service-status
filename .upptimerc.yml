@@ -18,6 +18,13 @@ sites:
   - name: Architect Web
     url: https://architect.networkcanvas.com
 
+# Checks every 30 minutes rather than Upptime's default of every 5. Each
+# check of the Fresco Sandbox wakes its scale-to-zero Neon database, which then
+# stays awake for 5 minutes, so the 5-minute schedule kept it running (and
+# billed) about 40% of the time.
+workflowSchedule:
+  uptime: "*/30 * * * *"
+
 status-website:
   # cname: demo.upptime.js.org
   cname: status.networkcanvas.com # Custom CNAME
