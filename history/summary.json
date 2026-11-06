@@ -76,20 +76,21 @@
     "url": "https://partnerservices.networkcanvas.com",
     "icon": "https://icons.duckduckgo.com/ip3/partnerservices.networkcanvas.com.ico",
     "slug": "partner-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 399,
-    "timeDay": 435,
-    "timeWeek": 400,
-    "timeMonth": 396,
-    "timeYear": 366,
+    "time": 459,
+    "timeDay": 15256,
+    "timeWeek": 3698,
+    "timeMonth": 1269,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-11-18": 111,
-      "2026-05-02": 32
+      "2026-05-02": 32,
+      "2026-11-06": 0
     }
   },
   {
